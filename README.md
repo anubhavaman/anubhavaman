@@ -49,6 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anubhavaman&show_icons=true&theme=tokyonight" alt="Anubhav's GitHub Stats" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavaman&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=anubhavaman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
 
 ---
