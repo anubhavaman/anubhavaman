@@ -46,9 +46,9 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhav-Aman&show_icons=true&theme=tokyonight" alt="Anubhav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhavaman&show_icons=true&theme=tokyonight" alt="Anubhav's GitHub Stats" />
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anubhav-Aman&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anubhavaman&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
