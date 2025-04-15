@@ -48,16 +48,16 @@
 
 ![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavAman&show_icons=true&theme=radical&count_private=true)
 
+ <img src="https://komarev.com/ghpvc/?username=anubhavaman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+
 <p align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavaman&theme=react-dark" alt="GitHub Activity Graph" />
-  <h1><img src="https://komarev.com/ghpvc/?username=anubhavaman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" /></h1>
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavaman&theme=react-dark" alt="GitHub Activity Graph" />  
 </p>
 
 
 
-## 🌟 GitHub Trophies
+### 🌟 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnubhavAman&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
