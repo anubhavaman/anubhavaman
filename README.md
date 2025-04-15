@@ -55,13 +55,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavaman&theme=react-dark" alt="GitHub Activity Graph" />  
 </p>
 
+---
+
 ### 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnubhavAman&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-
+---
 
 ### 🌟 GitHub Trophies
 
