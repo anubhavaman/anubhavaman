@@ -44,14 +44,17 @@
 
 ---
 
-### 📈 GitHub Stats: 
+# 📊 GitHub Stats
+
+![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavAman&show_icons=true&theme=radical&count_private=true)
+
 <p align="center">
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavaman&theme=react-dark" alt="GitHub Activity Graph" />
   <img src="https://komarev.com/ghpvc/?username=anubhavaman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
   
 </p>
-![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavAman&show_icons=true&theme=radical&count_private=true)
+
 
 
 ## 🌟 GitHub Trophies
