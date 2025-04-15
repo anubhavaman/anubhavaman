@@ -53,15 +53,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavaman&theme=react-dark" alt="GitHub Activity Graph" />  
 </p>
 
-## 👀 Profile Views
+### 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnubhavAman&label=Profile%20Views&color=ff69b4&style=flat)
+<img src="https://komarev.com/ghpvc/?username=AnubhavAman&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
 
 
 ### 🌟 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnubhavAman&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnubhavAman&theme=radical&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
