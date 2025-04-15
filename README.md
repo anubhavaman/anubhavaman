@@ -48,7 +48,7 @@
 
 ![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavAman&show_icons=true&theme=radical&count_private=true)
 
- <img src="https://komarev.com/ghpvc/?username=anubhavaman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+ <img align="center" src="https://komarev.com/ghpvc/?username=anubhavaman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 
 <p align="center">
   <br>
